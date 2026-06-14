@@ -87,16 +87,7 @@
 AI-powered healthcare application predicting sleep disorders using patient health and lifestyle data.
 - Sleep Disorder Prediction · Patient Management · Secure Authentication · Dashboard Analytics · Real-Time Predictions
 - **Stack:** React.js, Flask, MySQL, XGBoost, Python
-- **Achievement:** 95.08% Model Accuracy
-
-#### 🌾 AgroShield AI — Smart Crop Pest Forecasting System
-ML-powered system forecasting crop pest risks for farmers in Tamil Nadu, built with CatBoost/Gradient Boosting ensemble models and a React/Chart.js dashboard.
-
-#### 📊 ResilienceAI — Business Intelligence Dashboard
-Large-scale React dashboard delivering AI-driven business resilience analytics with a premium SaaS-grade UI/UX.
-
-#### 🩺 Enhanced Liver Cancer Prediction System
-13-page React frontend for ML-based liver cancer risk prediction using CatBoost, featuring dark mode and animated UI components.
+- **Achievement:** 95.08% Model Accura
 
 ---
 
